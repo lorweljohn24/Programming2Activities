@@ -1,0 +1,13 @@
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\netcoreapp3.1\ToDoListApplication.exe
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\netcoreapp3.1\ToDoListApplication.deps.json
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\netcoreapp3.1\ToDoListApplication.runtimeconfig.json
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\netcoreapp3.1\ToDoListApplication.runtimeconfig.dev.json
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\netcoreapp3.1\ToDoListApplication.dll
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\netcoreapp3.1\ToDoListApplication.pdb
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\netcoreapp3.1\ToDoListApplication.csprojAssemblyReference.cache
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\netcoreapp3.1\ToDoListApplication.AssemblyInfoInputs.cache
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\netcoreapp3.1\ToDoListApplication.AssemblyInfo.cs
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\netcoreapp3.1\ToDoListApplication.csproj.CoreCompileInputs.cache
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\netcoreapp3.1\ToDoListApplication.dll
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\netcoreapp3.1\ToDoListApplication.pdb
+C:\Users\RAMOS FAMILY\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\netcoreapp3.1\ToDoListApplication.genruntimeconfig.cache
